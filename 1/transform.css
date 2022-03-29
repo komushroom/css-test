@@ -1,0 +1,5 @@
+.box:hover .img1{transform: translateX(60px) ;}
+.box:hover .img2{transform: translateX(-60px) ;}
+
+.img1{transform: translateX(0px);transition: all 0.8s ease;}
+.img2{transform: translateX(0px);transition: all 0.8s ease;}
